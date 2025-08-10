@@ -40,7 +40,7 @@ With **leveling**, **admin tools**, and **custom commands**, it’s perfect for 
 ---
 
 ## 🖼️ Screenshot 
-![Bot Screenshot](codexbotscreen.png)
+![Bot Screenshot](images/codexbotscreen.png)
 
 ---
 
