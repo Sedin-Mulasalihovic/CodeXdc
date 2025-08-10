@@ -47,8 +47,8 @@ With **leveling**, **admin tools**, and **custom commands**, it’s perfect for 
 ## ⚙️ Installation
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/codexbot.git
-   cd codexbot
+   git clone https://github.com/Sedin-Mulasalihovic/codexdc.git
+   cd codexdc
 2. **Install dependencies:**
    ```bash
    npm install
